@@ -1,10 +1,13 @@
 # Priva
 
-Microsoft Priva fulfills data subject requests and monitors personal data 
+Microsoft Priva fulfills data subject requests and monitors personal data.
 
 ## Priva is made of 2 modules
-### Subject Rights Requests 
-![image](https://user-images.githubusercontent.com/104838111/171040182-38235ff8-f460-4dfa-980a-6be017348adc.png)
+![image](https://user-images.githubusercontent.com/104838111/171057616-faf1680d-ea56-41d3-ad7d-db4479815497.png)
 
-### Risk Management Policies
-![image](https://user-images.githubusercontent.com/104838111/171040273-698e0a03-befa-442d-83d8-917111cb896f.png)
+## Summary
+![image](https://user-images.githubusercontent.com/104838111/171057681-a134de69-59ba-4cc4-93f6-782a99692340.png)
+
+## More details
+![image](https://user-images.githubusercontent.com/104838111/171057692-09b972f7-c128-4bca-b1fe-3ac5383c2ff7.png)
+
