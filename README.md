@@ -12,5 +12,5 @@ https://dictionary.cambridge.org/dictionary/english/vision
 M365 Purview can benefit from a set of Vision Diagrams to better grasp the scope of its various modules
 - Data Lifecyle Management
 - Insider Risk Management
-- Priva
+- [Priva](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/Priva#readme)
 - ...
