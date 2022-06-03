@@ -11,6 +11,6 @@ https://dictionary.cambridge.org/dictionary/english/vision
 ## Vision Diagrams
 M365 Purview can benefit from a set of Vision Diagrams to better grasp the scope of its various modules
 - Data Lifecyle Management
-- [Insider Risk Management](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/blob/main/InsiderRiskManagement/README.md)
-- [Priva](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/Priva#readme)
+- [Insider Risk Management](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/blob/main/InsiderRiskManagement)
+- [Priva](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/Priva)
 - ...
