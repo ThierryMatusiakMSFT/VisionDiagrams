@@ -9,7 +9,8 @@ They analyze activity and generate alerts.<BR/>
 Reviewers can confirm relevant alerts into IRM Cases.<BR/>
 Serious problems can result in formal investigations run in the eDiscovery module.<BR/>
 <BR/>
-![image](https://user-images.githubusercontent.com/104838111/171820381-cdc47efa-e6b5-41eb-bb79-c299b86de9b1.png)
+![Slide3](https://user-images.githubusercontent.com/104838111/172293958-7a1ccab7-7340-4605-9d64-5f9c88eeb030.JPG)
+
 
 ## Details
 Data Connectors can feed IRM with additional information.<BR/>
@@ -17,7 +18,7 @@ Policies define who is monitored and what behaviors to monitor.<BR/>
 Alerts can feed an external SIEM.<BR/>
 Cases provide various tools : activity and content analysis, Teams collaboration, PowerAutomate actions,...<BR/>
 <BR/>
-![image](https://user-images.githubusercontent.com/104838111/171820407-bfc93bb4-dd37-4c6f-85b0-938fb6e32e29.png)
+![Slide4](https://user-images.githubusercontent.com/104838111/172294012-e76bcf2c-f692-45b0-9abf-6f5750b93001.JPG)
 
 
 ## Even more details...
@@ -26,7 +27,7 @@ IRM offers a dedicated audit Log.<BR/>
 Policy triggers initiate user's monitoring.<BR/>
 Policy indicators accumulate and may result into raising an alert.<BR/>
 <BR/>
-![image](https://user-images.githubusercontent.com/104838111/171820443-54572312-da1a-4b87-bb2e-bf09971e1b7c.png)
+![Slide5](https://user-images.githubusercontent.com/104838111/172294040-62f8d199-d831-41b1-a157-7f48b6c07a4d.JPG)
 
 
 ## Scoring Process
@@ -43,7 +44,7 @@ The scoring engine gives more importance to specified priority content.<BR/>
 Cumulative activity identifies deviation from a “normal” pattern. It also influences the score.<BR/>
 New indicators may change the severity of an existing alert.<BR/>
 <BR/>
-![image](https://user-images.githubusercontent.com/104838111/171823679-6408ab88-21fd-498c-9ce2-6d53aea83116.png)
+![Slide11](https://user-images.githubusercontent.com/104838111/172294252-272e53c1-5ccb-4dab-855d-652a0ad84241.JPG)
 
 
 
