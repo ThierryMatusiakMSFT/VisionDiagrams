@@ -24,7 +24,7 @@ Cases provide various tools : activity and content analysis, Teams collaboration
 ## Even more details...
 You can configure various global IRM settings.  
 IRM offers a dedicated audit Log.  
-Policy triggers initiate user's monitoring. 
+Policy triggers initiate user's monitoring.  
 Policy indicators accumulate and may result into raising an alert.  
   
 ![Slide5](https://user-images.githubusercontent.com/104838111/172294040-62f8d199-d831-41b1-a157-7f48b6c07a4d.JPG)
