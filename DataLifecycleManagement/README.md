@@ -43,15 +43,15 @@ Labels can embed various options (retain then trigger a disposition review, reta
 ## Policies - Summary
 Policies apply to a scope (users, SPO locations or M365 group).  
 These scopes may be static or dynamically re-evaluated.  
-DLM also include a set of tools for Exchange Online (PST import, inactive mailboxes, archives).  
+DLM also includes a set of tools for Exchange Online (PST import, inactive mailboxes, archives).  
 
 
 ![Slide7](https://user-images.githubusercontent.com/104838111/183945579-5f8a5bcd-da48-40c5-9d9a-6634dd37f646.png)
 
 ## Policies - More Details
 A preservation lock can be applied to a Policy to lock its definition and prevent admin updates.  
-1. Publihsed Labels become visible for a set of M365 locations.
-2. Labels can be automatically applied on documents in a set of locations, plus additional filters linked to their content.
-3. Transparent policies apply at the M365 container level.
+(1) Published Labels become visible for a set of M365 locations.
+(2) Labels can be automatically applied on documents in a set of locations, plus additional filters linked to their content.
+(3) Transparent policies apply at the M365 container level.
   
 ![Slide8](https://user-images.githubusercontent.com/104838111/183946362-ace139c1-183d-4a5a-a7b0-8e6bdc72e892.png)
