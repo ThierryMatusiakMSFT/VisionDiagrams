@@ -17,14 +17,14 @@ M365 uses dedicated storage locations to preserve data.
 ## 3 complementary options exist to apply rules    
 1. Define and publish Retention Labels, so that Business Users can apply them.  
 2. Define Retention Labels, then specify a Policy to automatically apply these Labels to the appropriate content.  
-3. Define a transparent Retention Policy (without a Label) and automatically apply these rules to the appropriate content.  
+3. Define a transparent Retention Policy (without a Label) and automatically apply this rule to the appropriate content.  
   
 ![Slide4](https://user-images.githubusercontent.com/104838111/183939212-98c54687-243d-4c0b-a63f-1cdcc3a08e95.png)
 
 ## Labels - Summary
 A File Plan consists in a set of Labels.  
+Note: it is optional. You may directly define Labels.    
 Every Label may include a disposition reivew step before data gets deleted.  
-The Labels are applied to M365 resources (containers and content).  
   
 3 flavors of Labels exist:  
 - "Standard" Retention Labels define a retention period and/or the need to delete the data after it expires
@@ -41,5 +41,17 @@ Labels can embed various options (retain then trigger a disposition review, reta
 ![Slide6](https://user-images.githubusercontent.com/104838111/183941970-f7041197-31aa-49ff-9594-28bf1680f467.png)
 
 ## Policies - Summary
+Policies apply to a scope (users, SPO locations or M365 group).  
+These scopes may be static or dynamically re-evaluated.  
+DLM also include a set of tools for Exchange Online (PST import, inactive mailboxes, archives).  
+
+
+![Slide7](https://user-images.githubusercontent.com/104838111/183945579-5f8a5bcd-da48-40c5-9d9a-6634dd37f646.png)
 
 ## Policies - More Details
+A preservation lock can be applied to a Policy to lock its definition and prevent admin updates.  
+1. Publihsed Labels become visible for a set of M365 locations.
+2. Labels can be automatically applied on documents in a set of locations, plus additional filters linked to their content.
+3. Transparent policies apply at the M365 container level.
+  
+![Slide8](https://user-images.githubusercontent.com/104838111/183946362-ace139c1-183d-4a5a-a7b0-8e6bdc72e892.png)
