@@ -50,8 +50,8 @@ DLM also includes a set of tools for Exchange Online (PST import, inactive mailb
 
 ## Policies - More Details
 A preservation lock can be applied to a Policy to lock its definition and prevent admin updates.  
-(1) Published Labels become visible for a set of M365 locations.
-(2) Labels can be automatically applied on documents in a set of locations, plus additional filters linked to their content.
-(3) Transparent policies apply at the M365 container level.
+(1) Published Labels become visible for users in a set of M365 locations.  
+(2) Labels can be automatically applied on documents in a set of locations. Additional filters can be applied, based on their content.  
+(3) Transparent policies apply at the M365 container level (SPO site, ODB space, EXO mailbox...).  
   
 ![Slide8](https://user-images.githubusercontent.com/104838111/183946362-ace139c1-183d-4a5a-a7b0-8e6bdc72e892.png)
