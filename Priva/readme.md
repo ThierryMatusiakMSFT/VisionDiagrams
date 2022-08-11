@@ -12,16 +12,16 @@ Priva is made of 2 modules.
 ## Summary
 Priva analyzes the organization data profile.  
 The DSR module collects information and generate reports.  
-The Privacy Admin defines policies.
-Policies cover : data overexposure, minimization and transfer.  
-Policies generate alerts, which can be confirmed into Issues.  
+The Privacy Admin defines policies (data overexposure, minimization and transfer).  
+Policies generate Alerts, which can be confirmed into Issues.  
   
 ![Slide4](https://user-images.githubusercontent.com/104838111/171057681-a134de69-59ba-4cc4-93f6-782a99692340.png)
 
 ## More details
 Priva Admins rely on Teams to collaborate and PowerAutomate to launch complementary actions.  
 Policies are scoped with sensitive information types, users and locations.  
-Case Investigators can analyze content to better understand an open issue.  
-Priva also provides a Graph API.  
+Case Investigators can analyze M365 content to better understand an open issue.  
+Priva also provides a Graph API to integrate with third-party solutions.  
+  
 ![Slide5](https://user-images.githubusercontent.com/104838111/171824470-3a344c94-70e4-4289-8ab5-95e7f708d441.png)
 
