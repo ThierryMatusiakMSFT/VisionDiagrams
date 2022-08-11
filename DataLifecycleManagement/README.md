@@ -8,14 +8,14 @@ Records Management extends DLM to prevent records updates or deletion.
 ## Context
 Compliance Officers define a set of Retention Labels and Retention Policies.  
 These policies include a data retention period (in case a user deletes this content).  
-They can also result into data deletion after a specific period. This deletion can be automatic or go through a disposition review.  
+They can also result into documents' deletion after a specific period. This deletion can be automatic or go through a disposition review.  
 Both Records Management and Data Lifecycle Management apply to M365 Data.  
-M365 uses dedicated storage locations to preserve data.  
+M365 uses dedicated storage locations to preserve the associated data and make sure it remains available for eDiscovery cases.  
   
 ![Slide3](https://user-images.githubusercontent.com/104838111/183934326-4e3e6492-34a4-46a1-a72c-57a6b2276dd4.png)
 
 ## 3 complementary options exist to apply rules    
-1. Define and publish Retention Labels, so that Business Users can apply them.  
+1. Define and publish Retention Labels, so that Business Users can apply them to documents.  
 2. Define Retention Labels, then specify a Policy to automatically apply these Labels to the appropriate content.  
 3. Define a transparent Retention Policy (without a Label) and automatically apply this rule to the appropriate content.  
   
@@ -42,16 +42,16 @@ Labels can embed various options (retain then trigger a disposition review, reta
 
 ## Policies - Summary
 Policies apply to a scope (users, SPO locations or M365 group).  
-These scopes may be static or dynamically re-evaluated.  
-DLM also includes a set of tools for Exchange Online (PST import, inactive mailboxes, archives).  
+These scopes may be static or dynamically re-evaluated. Microsoft calls them "adaptive".  
+DLM also includes a set of technical tools for Exchange Online (PST import, inactive mailboxes, archives).  
 
 
 ![Slide7](https://user-images.githubusercontent.com/104838111/183945579-5f8a5bcd-da48-40c5-9d9a-6634dd37f646.png)
 
 ## Policies - More Details
-A preservation lock can be applied to a Policy to lock its definition and prevent admin updates.  
+A preservation lock can be applied to a Policy to freeze its definition and prevent admin updates.  
 (1) Published Labels become visible for users in a set of M365 locations.  
 (2) Labels can be automatically applied on documents in a set of locations. Additional filters can be applied, based on their content.  
-(3) Transparent policies apply at the M365 container level (SPO site, ODB space, EXO mailbox...).  
+(3) Transparent policies apply at the M365-container level (SPO site, ODB space, EXO mailbox...).  
   
 ![Slide8](https://user-images.githubusercontent.com/104838111/183946362-ace139c1-183d-4a5a-a7b0-8e6bdc72e892.png)
