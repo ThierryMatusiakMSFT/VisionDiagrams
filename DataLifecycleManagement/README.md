@@ -37,8 +37,9 @@ Every Label may include a disposition reivew step before data gets deleted.
 The retention period can start after a specific Business Event.  
 Users may unlock Records to temporarily authorize updates.  
 Labels can embed various options (retain then trigger a disposition review, retain then re-label, retain forever...).  
+Labels and Events can be managed with a dedicated Graph API.  
   
-![Slide6](https://user-images.githubusercontent.com/104838111/183941970-f7041197-31aa-49ff-9594-28bf1680f467.png)
+![Slide6](https://user-images.githubusercontent.com/104838111/184108068-bfa08303-ec6c-457a-982e-b5f1123dbfc5.png)
 
 ## Policies - Summary
 Policies apply to a scope (users, SPO locations or M365 group).  
