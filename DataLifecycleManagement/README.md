@@ -1,26 +1,25 @@
 # Data Lifecycle Management & Records Management
 
-Data Lifecycle Management (DLM) protects important data during its retention period. 
+Data Lifecycle Management (DLM) protects important data during its retention period.  
 It can also erase old data. 
 
 Records Management extends DLM to prevent records updates or deletion.
 
 ## Context
-Compliance Officers define a set of Retention Labels and Retention Policies.  
+Both Records Management and Data Lifecycle Management apply to M365 Data.  
+Data Lifecycle Managers define a set of Retention Labels and Retention Policies.  
 These policies include a data retention period (in case a user deletes this content).  
 They can also result into documents' deletion after a specific period. This deletion can be automatic or go through a disposition review.  
-Both Records Management and Data Lifecycle Management apply to M365 Data.  
-M365 uses dedicated storage locations to preserve the associated data and make sure it remains available for eDiscovery cases.  
-  
-![Slide3](https://user-images.githubusercontent.com/104838111/183934326-4e3e6492-34a4-46a1-a72c-57a6b2276dd4.png)
 
+M365 uses dedicated storage locations to preserve the associated data and make sure it remains available for eDiscovery cases.  
+![Slide3](https://user-images.githubusercontent.com/104838111/235620695-628a1819-0c98-4180-b083-f8a284277b20.png)
+  
 ## 3 complementary options exist to apply rules    
 1. Define and publish Retention Labels, so that Business Users can apply them to documents.  
 2. Define Retention Labels, then specify a Policy to automatically apply these Labels to the appropriate content.  
 3. Define a transparent Retention Policy (without a Label) and automatically apply this rule to the appropriate content.  
+![Slide5](https://user-images.githubusercontent.com/104838111/235620873-593e25d2-e907-4edd-8d89-3cc633198122.png)
   
-![Slide4](https://user-images.githubusercontent.com/104838111/183939212-98c54687-243d-4c0b-a63f-1cdcc3a08e95.png)
-
 ## Labels - Summary
 A File Plan consists in a set of Labels.  
 Note: it is optional. You may directly define Labels.    
