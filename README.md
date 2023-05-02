@@ -14,7 +14,7 @@ M365 Purview can benefit from a set of Vision Diagrams to better grasp the scope
 - [Data Loss Prevention](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/DataLossPrevention)
 - [Communication Compliance](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/CommunicationCompliance)
 - [Insider Risk Management](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/InsiderRiskManagement)
-- [Information Barriers](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/InformationBarriers)
+- [Information Barriers](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/Information Barriers)
 - [eDiscovery](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/eDiscovery)
 - [Priva](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/Priva)
 - ...
