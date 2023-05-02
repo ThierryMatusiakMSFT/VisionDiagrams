@@ -44,8 +44,12 @@ A preservation lock can be applied to a Policy to freeze its definition and prev
  
 ![Slide7](https://user-images.githubusercontent.com/104838111/235624375-8406e1e6-40ec-4a3f-ba78-99c8390105fc.png)
 
-## Labels - APIs
+## Labels - PowerShell & APIs
+Many PowerShell commands are available.   
+For some specific admin tasks, they are even the only option available for the Administrator.  
 Labels and Events can be managed with a dedicated Graph API.  
+
+![image](https://user-images.githubusercontent.com/104838111/235638070-ac6de673-bd0c-4ca6-9d11-a04ba32a812d.png)
 
  
 ## Policies - Summary
