@@ -11,47 +11,56 @@ Data Lifecycle Managers define a set of Retention Labels and Retention Policies.
 These policies include a data retention period (in case a user deletes this content).  
 They can also result into documents' deletion after a specific period. This deletion can be automatic or go through a disposition review.  
 
-M365 uses dedicated storage locations to preserve the associated data and make sure it remains available for eDiscovery cases.  
-![Slide3](https://user-images.githubusercontent.com/104838111/235620695-628a1819-0c98-4180-b083-f8a284277b20.png)
-  
+M365 uses dedicated storage locations to preserve the associated data and make sure it remains available for eDiscovery cases. 
+
+![Slide3](https://user-images.githubusercontent.com/104838111/235623468-c577287a-b9a0-4f38-8df8-9e86b5140799.png)
+ 
+ 
 ## 3 complementary options exist to apply rules    
 1. Define and publish Retention Labels, so that Business Users can apply them to documents.  
 2. Define Retention Labels, then specify a Policy to automatically apply these Labels to the appropriate content.  
 3. Define a transparent Retention Policy (without a Label) and automatically apply this rule to the appropriate content.  
-![Slide5](https://user-images.githubusercontent.com/104838111/235620873-593e25d2-e907-4edd-8d89-3cc633198122.png)
-  
+
+![Slide5](https://user-images.githubusercontent.com/104838111/235623738-f6854a4b-c59d-4e1b-8f6a-f8bf8b55f690.png)
+
 ## Labels - Summary
 A File Plan consists in a set of Labels.  
 Note: it is optional. You may directly define Labels.    
-Every Label may include a disposition reivew step before data gets deleted.  
+Every Label may include a disposition review step before data gets deleted.  
   
 3 flavors of Labels exist:  
 - "Standard" Retention Labels define a retention period and/or the need to delete the data after it expires
 - Records prevent updates during the retention period
 - Regulatory Records cannot be removed once they have been applied  
-  
-![Slide5](https://user-images.githubusercontent.com/104838111/183939377-652d41af-9d07-4ddf-8012-f06d29e47249.png)
 
+![Slide6](https://user-images.githubusercontent.com/104838111/235624088-1f93f661-a6de-491b-bbf3-e18420cb9545.png)
+
+ 
 ## Labels - More Details
 The retention period can start after a specific Business Event.  
 Users may unlock Records to temporarily authorize updates.  
 Labels can embed various options (retain then trigger a disposition review, retain then re-label, retain forever...).  
-Labels and Events can be managed with a dedicated Graph API.  
-  
-![Slide6](https://user-images.githubusercontent.com/104838111/184108068-bfa08303-ec6c-457a-982e-b5f1123dbfc5.png)
-
-## Policies - Summary
-Policies apply to a scope (users, SPO locations or M365 group).  
-These scopes may be static or dynamically re-evaluated. Microsoft calls them "adaptive".  
-DLM also includes a set of technical tools for Exchange Online (PST import, inactive mailboxes, archives).  
-
-
-![Slide7](https://user-images.githubusercontent.com/104838111/183945579-5f8a5bcd-da48-40c5-9d9a-6634dd37f646.png)
-
-## Policies - More Details
 A preservation lock can be applied to a Policy to freeze its definition and prevent admin updates.  
+ 
+![Slide7](https://user-images.githubusercontent.com/104838111/235624375-8406e1e6-40ec-4a3f-ba78-99c8390105fc.png)
+
+## Labels - APIs
+Labels and Events can be managed with a dedicated Graph API.  
+
+ 
+## Policies - Summary
+DLM specifies a set of Retention Policies.
+They may embark a Retention Label.
 (1) Published Labels become visible for users in a set of M365 locations.  
 (2) Labels can be automatically applied on documents in a set of locations. Additional filters can be applied, based on their content.  
 (3) Transparent policies apply at the M365-container level (SPO site, ODB space, EXO mailbox...).  
-  
-![Slide8](https://user-images.githubusercontent.com/104838111/183946362-ace139c1-183d-4a5a-a7b0-8e6bdc72e892.png)
+ 
+DLM also includes a set of technical tools for Exchange Online (PST import, inactive mailboxes, archives).  
+
+![Slide8](https://user-images.githubusercontent.com/104838111/235624575-883c416e-af47-4c41-961b-913e45c0e033.png)
+
+## Policies - More Details
+Policies apply to a scope (users, SPO locations or M365 group).  
+These scopes may be static or dynamically re-evaluated. In this case, Microsoft calls them "adaptive scopes".  
+
+![Slide9](https://user-images.githubusercontent.com/104838111/235624652-43e57a1b-7e51-4432-8e61-5d171f50d858.png)
