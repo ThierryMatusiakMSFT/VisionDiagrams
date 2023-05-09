@@ -8,8 +8,9 @@ Insider Risk Management (IRM) consists in a set of monitoring policies.
 They analyze activity and generate alerts.  
 Reviewers can confirm relevant alerts into IRM Cases.  
 Serious problems can result in formal investigations run in the eDiscovery module.  
-  
-![Slide3](https://user-images.githubusercontent.com/104838111/172293958-7a1ccab7-7340-4605-9d64-5f9c88eeb030.JPG)
+IRM analyzes various sources of activity. 
+
+![Slide3](https://user-images.githubusercontent.com/104838111/236775946-c9f9e5ef-d0f3-482e-a607-fb13e45161ec.png)
 
 
 ## Details
@@ -18,16 +19,21 @@ Policies define who is monitored and what behaviors to monitor.
 Alerts can feed an external SIEM.  
 Cases provide various tools : activity and content analysis, Teams collaboration, PowerAutomate actions,...  
   
-![Slide4](https://user-images.githubusercontent.com/104838111/172294012-e76bcf2c-f692-45b0-9abf-6f5750b93001.JPG)
+![Slide4](https://user-images.githubusercontent.com/104838111/236776154-c8411c99-551b-477f-b3a0-c8ceb66f6c0b.png)
 
 
 ## Even more details...
 You can configure various global IRM settings.  
-IRM offers a dedicated audit Log.  
+IRM offers a dedicated audit Log to review IRM Admin activity.  
+Forensics Evidence records Endpoint Activity.  
+  
+User Activity Reports allow to temporarily monitor users.  
+IRM can feed DLP policies with Users’ Risk Level.  
+  
 Policy triggers initiate user's monitoring.  
 Policy indicators accumulate and may result into raising an alert.  
-  
-![Slide5](https://user-images.githubusercontent.com/104838111/172294040-62f8d199-d831-41b1-a157-7f48b6c07a4d.JPG)
+
+![Slide5](https://user-images.githubusercontent.com/104838111/236776906-32326bc6-fd31-4b98-975a-ebd07c03ea53.png)
 
 
 ## Scoring Process
