@@ -10,6 +10,8 @@ https://dictionary.cambridge.org/dictionary/english/vision
 
 ## Vision Diagrams
 M365 Purview can benefit from a set of Vision Diagrams to better grasp the scope of its various modules
+- [Data Classification](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/Data%20Classification)
+- [Information Protection](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/Information%20Protection)
 - [Data Lifecyle Management](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/DataLifecycleManagement)
 - [Data Loss Prevention](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/DataLossPrevention)
 - [Communication Compliance](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/CommunicationCompliance)
