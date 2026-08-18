@@ -18,7 +18,11 @@ M365 Purview can benefit from a set of Vision Diagrams to better grasp the scope
 - [Insider Risk Management](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/InsiderRiskManagement)
 - [Information Barriers](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/Information%20Barriers)
 - [eDiscovery](https://github.com/ThierryMatusiakMSFT/VisionDiagrams/tree/main/eDiscovery)
-- ...
+
+More to come : 
+- Permission Management
+- DSPM 
+-...
 
 I am an Information Protection Architect, with Microsoft France. 
 These diagrams are provided "as is" and do not correspond to any official documentation, even though I try to keep them as accurate as possible (at the time of publication).
