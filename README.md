@@ -22,7 +22,8 @@ M365 Purview can benefit from a set of Vision Diagrams to better grasp the scope
 More to come : 
 - Permission Management
 - DSPM 
-- Data Security INvestigation
+- Data Security Investigation
+- On Demand Classification
 -...
 
 I am an Information Protection Architect, with Microsoft France. 
